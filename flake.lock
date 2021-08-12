@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1628607662,
-        "narHash": "sha256-TT7jldaYFtHGdVX/yE6FjdpPdNY01xIygB2zGjzFTqk=",
+        "lastModified": 1628696776,
+        "narHash": "sha256-K8+/IQNZDZltIu/KSf+Tz01OwNzTGgTch0ktMOWcxLg=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "2d6ab6c6b92f7aaf8bc53baba9754b9bfdce56f2",
+        "rev": "927ce1afc1db40869a463a37ea2738c27d425f80",
         "type": "github"
       },
       "original": {
@@ -18,17 +18,13 @@
     "npmlock2nix": {
       "flake": false,
       "locked": {
-        "lastModified": 1628671444,
-        "narHash": "sha256-2xpZVVpY3X6fQdXntIxpPzl5JHk72VD4kgWyrO2evT8=",
-        "owner": "tweag",
-        "repo": "npmlock2nix",
-        "rev": "c63a75e9e31ea5d7d6f94ee9ced41979908087fb",
-        "type": "github"
+        "narHash": "sha256-cLulNrdy+B7jNhSBefXQkCulBLNV57o6fZ8qv8wTd5g=",
+        "path": "/home/sohalt/projects/summer-of-nix/npmlock2nix",
+        "type": "path"
       },
       "original": {
-        "owner": "tweag",
-        "repo": "npmlock2nix",
-        "type": "github"
+        "path": "/home/sohalt/projects/summer-of-nix/npmlock2nix",
+        "type": "path"
       }
     },
     "root": {

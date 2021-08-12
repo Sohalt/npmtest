@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "leftpad": "github:tmcw/leftpad#db1442a0556c2b133627ffebf455a78a1ced64b9"
+    "js-eris": "git+https://gitlab.com/openengiadina/js-eris.git#no-sodium"
   }
 }

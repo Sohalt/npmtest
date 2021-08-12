@@ -5,8 +5,8 @@
   inputs.nixpkgs.url = "nixpkgs/nixos-21.05";
 
   inputs.npmlock2nix = {
-    url = "github:tweag/npmlock2nix";
-    #url = "/home/sohalt/projects/summer-of-nix/npmlock2nix";
+    #url = "github:tweag/npmlock2nix";
+    url = "/home/sohalt/projects/summer-of-nix/npmlock2nix";
     flake = false;
   };
 
